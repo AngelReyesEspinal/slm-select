@@ -13,6 +13,7 @@ export default Vue.extend({
 <template>
   <div id="app">
     <slm-select 
+      border="1"
       applicationServer="https://localhost:44301" 
       applicationCode="20e0bee7-954a-46f9-b113-19f48c943f16"
     />
