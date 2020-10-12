@@ -1,6 +1,6 @@
 {
   "name": "slm-select",
-  "version": "1.0.9",
+  "version": "2.0.0",
   "description": "",
   "main": "dist/slm-select.ssr.js",
   "browser": "dist/slm-select.esm.js",
